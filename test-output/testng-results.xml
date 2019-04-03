@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="165014" started-at="2019-04-02T06:52:12Z" finished-at="2019-04-02T06:54:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="165014" started-at="2019-04-02T06:52:12Z" finished-at="2019-04-02T06:54:57Z">
+      <class name="LoginTestCase">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:LoginTestCase@25618e91]" name="browsersetup" is-config="true" duration-ms="2269" started-at="2019-04-02T06:52:12Z" finished-at="2019-04-02T06:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:LoginTestCase@25618e91]" name="launchApp" duration-ms="162698" started-at="2019-04-02T06:52:15Z" finished-at="2019-04-02T06:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+      </class> <!-- LoginTestCase -->
+      <class name="Priortization">
+        <test-method status="PASS" signature="amethod()[pri:0, instance:Priortization@326de728]" name="amethod" duration-ms="7" started-at="2019-04-02T06:52:12Z" finished-at="2019-04-02T06:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+      </class> <!-- Priortization -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
